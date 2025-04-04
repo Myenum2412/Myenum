@@ -122,4 +122,10 @@ export const testimonials = [
     designation: "",
     src: "https://qsuv73ya7y.ufs.sh/f/fNtsXLDRapsONM0ywgd5Rriq1SekcaXEzPy2FOswQTbNULMj",
   },
+  {
+    guote: "",
+    name: "",
+    designation: "",
+    src: "https://qsuv73ya7y.ufs.sh/f/fNtsXLDRapsO5jncyqTJa8kTxHIQv142tiLn3W0heEMYdVXp",
+  }
 ]
