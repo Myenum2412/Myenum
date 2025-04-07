@@ -10,13 +10,17 @@ import Testimonials from "./Pages/Addons/HomeAddons/Testimonials";
 
 export default function Home() {
   return (
-    <div className="container mx-auto p-4 w-full h-full bg-cover bg-center flex flex-col items-center justify-center gap-4 overflow-hidden">
+    <div className="container mx-auto p-4 w-full h-full bg-cover bg-center flex flex-col items-center justify-center gap-4 overflow-auto scrollbar-hide">
       <NavBar />
       <Hero />
       <WobbleCardDemo />
       <HeroScrollDemo />
-      <HeroParallaxDemo />
+      <div className="w-full">
+        <HeroParallaxDemo />
+      </div>
+      <div className="w-full">
       <AboutUs />
+      </div>
       <Testimonials />
       <Footer />
     </div>
