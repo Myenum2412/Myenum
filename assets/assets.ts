@@ -115,17 +115,30 @@ export { AboutusImg, sale };
 
 
 export const testimonials = [
+    {
+    quote:
+    "Startup Newgen is a global, innovative enterprise delivering safe, secure, and professional packing solutions across B2B and C2C sectors, with a commitment to quality, client satisfaction, and a strong presence in countries worldwide.",
+    name: "Air Winch International Courie and Cargo",
+    designation: "airwinchinternational.com",
+    src: "https://qsuv73ya7y.ufs.sh/f/fNtsXLDRapsO1xdpJONcY7IXn054ujZxJdN8PvKpEkbMFRwC",
+  },
   {
     quote:
     "Huma Spices brings you the finest handpicked spices, packed with rich flavor, authenticity, and natural health benefits.",
     name: "Huma Spices",
-    designation: "Huma Spices",
+    designation: "humaspices.com",
     src: "https://qsuv73ya7y.ufs.sh/f/fNtsXLDRapsONM0ywgd5Rriq1SekcaXEzPy2FOswQTbNULMj",
-  },
-  {
-    guote: "",
+  },{
+    quote:
+    "iSTAYS, founded in 2020 by Chef Balamurugan Kathavaryan, offers unique home-stay experiences in South India, blending culinary expertise with warm hospitality.",
+    name: "Ihotels",
+    designation: "www.istays.in",
+    src: "https://qsuv73ya7y.ufs.sh/f/fNtsXLDRapsOzO0ddiJJUmqQlv9TeG2KCIcBsiatZ1ojPAFw",
+  },{
+    quote:
+    "Basket Catchy is a boutique bakery and café offering handcrafted cakes, artisanal breads, seasonal treats, and creative gifting—where every bite is a delightful experience.",
     name: "Basket Catchy",
-    designation: "Basket Catchy",
+    designation: "basketcatchy.com",
     src: "https://qsuv73ya7y.ufs.sh/f/fNtsXLDRapsO5jncyqTJa8kTxHIQv142tiLn3W0heEMYdVXp",
   }
 ]
