@@ -23,6 +23,7 @@ const nextConfig: NextConfig = {
   devIndicators: {
     appIsrStatus: true,
     buildActivity: true,
+    position: "bottom-right",
     buildActivityPosition: "bottom-right",
   },
   productionBrowserSourceMaps: false, // Removed incorrect semicolon and merged into the main config
