@@ -49,11 +49,8 @@ export default function RootLayout({
             `,
           }}
         />
-        {/* Google AdSense */}
-        <meta
-          name="google-adsense-account"
-          content="ca-pub-5714264985066358"
-        />
+        
+      </head>
       <body>
         <ThemeProvider
           attribute="class"
