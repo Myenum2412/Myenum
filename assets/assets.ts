@@ -127,7 +127,7 @@ export const testimonials = [
       "Established in 1990 in Chinthamaniyur, Salem, Bds Handlooms is a leading silk saree manufacturer and wholesaler known for quality products, customer satisfaction, and a strong local presence with plans to expand further.",
     name: "BDS Handlooms / BDS ஹேண்ட்லூம்ஸ்",
     designation: "BDS Handlooms / BDS ஹேண்ட்லூம்ஸ்",
-    src: "",
+    src: "https://qsuv73ya7y.ufs.sh/f/fNtsXLDRapsOFARHdT4iVclHOEK17nL8RYwIXUxaqsmJ3T2Z",
   },
   {
     quote:
