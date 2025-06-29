@@ -79,11 +79,6 @@ const links = [
   },
   {
     id: 1,
-    path: "/staffs",
-    title: "Staffs",
-  },
-  {
-    id: 1,
     path: "/services",
     title: "Services",
   },
