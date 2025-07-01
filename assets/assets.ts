@@ -150,11 +150,4 @@ export const testimonials = [
     designation: "vairamdentalcare.whitecoats.com",
     src: "https://qsuv73ya7y.ufs.sh/f/fNtsXLDRapsOPgaU0ObVvcxUOXS6fuZMJkGqlbwFDKhgjzEr",
   },
-  {
-    quote:
-    "Huma Spices brings you the finest handpicked spices, packed with rich flavor, authenticity, and natural health benefits.",
-    name: "Huma Spices",
-    designation: "humaspices.com",
-    src: "https://qsuv73ya7y.ufs.sh/f/fNtsXLDRapsONM0ywgd5Rriq1SekcaXEzPy2FOswQTbNULMj",
-  },
 ]
