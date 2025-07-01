@@ -120,7 +120,7 @@ export const testimonials = [
       "Coming Soon...",
     name: "Radisson Hotel Salem",
     designation: "www.radissonhotels.com/en-us/hotels/radisson-salem",
-    src: "",
+    src: "https://qsuv73ya7y.ufs.sh/f/fNtsXLDRapsOCEa9zms2lohb8qVB6kJn1QEZuFMXYKexv0yN",
   },  
   {
     quote: 
