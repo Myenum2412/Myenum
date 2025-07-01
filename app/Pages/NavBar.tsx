@@ -15,7 +15,7 @@ export default function NavBar() {
 
   return (
     <>
-      <nav className="px-6 py-4 flex justify-between items-center border-b border-neutral-800 max-sm:px-2 fixed top-0 w-full bg-neutral-900/50 backdrop-blur max-w-screen-2xl z-50">
+      <nav className="px-6 py-4 flex justify-between items-center border-b border-neutral-800 max-sm:px-2 fixed top-0 w-full bg-neutral-900/50 backdrop-blur max-w-screen-2xl z-[1000]">
       <a href="https://www.myenum.in">
         <Image
           src={"/icon.png"}
